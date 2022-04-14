@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "speak-your-tech-MVC-blog-app"
 
-",
+,
   "main": "server.js",
   "scripts": {
     "test": "jest",
@@ -13,14 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brandonespencer/speak-your-tech-MVC-blog-app
-.git"
+    "url": "git+https://github.com/brandonespencer/speak-your-tech-MVC-blog-app.git"
   },
   "author": "brandonespencer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brandonespencer/speak-your-tech-MVC-blog-app
-/issues"
+    "url": "https://github.com/brandonespencer/speak-your-tech-MVC-blog-app/issues"
   },
   "homepage": "https://github.com/brandonespencer/speak-your-tech-MVC-blog-app
 #readme",
