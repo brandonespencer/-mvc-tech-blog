@@ -21,7 +21,7 @@
     "url": "https://github.com/brandonespencer/speak-your-tech-MVC-blog-app/issues"
   },
   "homepage": "https://github.com/brandonespencer/speak-your-tech-MVC-blog-app
-#readme",
+,
   "dependencies": {
     "bcrypt": "^5.0.0",
     "bulma": "^0.9.0",
