@@ -2,31 +2,31 @@ const { User } = require('../models');
 
 const userData = [
     {
-        username: "martina",
-        twitter: "martina",
-        github: "martina",
+        username: "martyb",
+        twitter: "martinswilldoit",
+        github: "martin.blandon",
         email: "martin@gmail.com",
         password: "p@ssword1"
     },
     {
-        username: "matt",
-        twitter: "mathewb",
-        github: "mathhew",
-        email: "mathew@gmail.com",
+        username: "mat",
+        twitter: "mathews",
+        github: "mathhews",
+        email: "mathew.s@gmail.com",
         password: "p@ssword2"
     },
     {
-        username: "shaun",
-        twitter: "shaun",
-        github: "shaun",
-        email: "shaun@gmail.com",
+        username: "shawn",
+        twitter: "shawn",
+        github: "shawn",
+        email: "shawn@gmail.com",
         password: "p@ssword3"
     },
     {
-        username: "lee",
-        twitter: "leen",
-        github: "leen",
-        email: "lee_n@gmail.com",
+        username: "lena",
+        twitter: "lena",
+        github: "lena",
+        email: "le_na@gmail.com",
         password: "p@ssword4"
     },
     {
@@ -38,9 +38,9 @@ const userData = [
     },
     {
         username: "ja",
-        twitter: "ja_w",
-        github: "ja",
-        email: "ja@gmail.com",
+        twitter: "ja_r",
+        github: "ja.rile",
+        email: "ja.rile@gmail.com",
         password: "p@ssword6"
     }
 ]
