@@ -60,12 +60,4 @@ WHEN I am idle on the page for more than a set time
 THEN I am automatically signed out of the site
 ```
 
-### Installation Guidelines
 
-- Add a .env file to the root of the project
-
-```text
-DB_NAME='tech_blog_db'
-DB_USER='root'
-DB_PW='XXX'
-```
