@@ -87,7 +87,7 @@
     padding: 0;
     cursor: pointer;
     text-decoration: none;
-    color: #225ca3;
+    color: red;
     font-size: 100%;
     font-weight: bold;
     transition: color .1s;
@@ -96,11 +96,11 @@
   
   .btn-no-style:hover {
     background: none;
-    color: #3486eb;
+    color: navy;
   }
   
   .delete-post-btn {
-    background-color: #d41414;
+    background-color: yellow;
   }
   
   .delete-post-btn:hover {
@@ -133,7 +133,7 @@
   }
   
   .comment:nth-child(odd) {
-    background-color: #fff5eb;
+    background-color: grey;
   }
   
   .comment .meta {
