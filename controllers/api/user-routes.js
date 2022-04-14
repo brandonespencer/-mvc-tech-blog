@@ -81,7 +81,7 @@ router.post('/', (req, res) => {
       }
     }).then(dbUserData => {
       if (!dbUserData) {
-        res.status(400).json({ message: 'No user with that email address!' });
+        res.status(400).json({ message: 'No user with this email address!' });
         return;
       }
   
@@ -100,7 +100,7 @@ router.post('/', (req, res) => {
         req.session.github = dbUserData.github;
         req.session.loggedIn = true;
   
-        res.json({ user: dbUserData, message: 'You are now logged in!' });
+        res.json({ user: dbUserData, message: 'Yay are now logged in!' });
       });
     });
   });
@@ -127,7 +127,7 @@ router.put('/:id', withAuth, (req, res) => {
     })
       .then(dbUserData => {
         if (!dbUserData[0]) {
-          res.status(404).json({ message: 'No user found with this id' });
+          res.status(404).json({ message: 'No user found with the id' });
           return;
         }
         res.json(dbUserData);
@@ -147,7 +147,7 @@ router.delete('/:id', withAuth, (req, res) => {
     })
       .then(dbUserData => {
         if (!dbUserData) {
-          res.status(404).json({ message: 'No user found with this id' });
+          res.status(404).json({ message: 'No user found with the id' });
           return;
         }
         res.json(dbUserData);
