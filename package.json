@@ -1,7 +1,9 @@
 {
-  "name": "mvc-tech-blog",
+  "name": "speak-your-tech-MVC-blog-app",
   "version": "1.0.0",
-  "description": "Model-View-Controller (MVC) Tech Blog",
+  "description": "speak-your-tech-MVC-blog-app"
+
+",
   "main": "server.js",
   "scripts": {
     "test": "jest",
@@ -11,14 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brandonespencer/mvc-tech-blog.git"
+    "url": "git+https://github.com/brandonespencer/speak-your-tech-MVC-blog-app
+.git"
   },
   "author": "brandonespencer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brandonespencer/mvc-tech-blog/issues"
+    "url": "https://github.com/brandonespencer/speak-your-tech-MVC-blog-app
+/issues"
   },
-  "homepage": "https://github.com/brandonespencer/mvc-tech-blog#readme",
+  "homepage": "https://github.com/brandonespencer/speak-your-tech-MVC-blog-app
+#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "bulma": "^0.9.0",
