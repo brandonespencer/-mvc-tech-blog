@@ -1,4 +1,4 @@
-## MVC Tech Blog
+## Speak your tech a MVC Tech Blog
    
 ### Description
 
